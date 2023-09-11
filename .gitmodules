@@ -1,3 +1,6 @@
 [submodule "Class Files/uwyo-cosc4210"]
 	path = Class Files/uwyo-cosc4210
 	url = https://github.com/dradose1-uwyo-cosc/uwyo-cosc4210
+[submodule "HW1"]
+	path = HW1
+	url = https://github.com/dradose1-uwyo-cosc/assignment-1-html-beckcarver
