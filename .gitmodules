@@ -4,3 +4,6 @@
 [submodule "HW1"]
 	path = HW1
 	url = https://github.com/dradose1-uwyo-cosc/assignment-1-html-beckcarver
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/dradose1-uwyo-cosc/assignment-2-css-javascript-beckcarver.git
