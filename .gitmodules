@@ -10,3 +10,6 @@
 [submodule "HW3"]
 	path = HW3
 	url = https://github.com/dradose1-uwyo-cosc/assignment-3-json-and-node-beckcarver
+[submodule "HW4"]
+	path = HW4
+	url = https://github.com/dradose1-uwyo-cosc/assignment-4-html-forms-beckcarver
