@@ -13,3 +13,6 @@
 [submodule "HW4"]
 	path = HW4
 	url = https://github.com/dradose1-uwyo-cosc/assignment-4-html-forms-beckcarver
+[submodule "HW5"]
+	path = HW5
+	url = https://github.com/dradose1-uwyo-cosc/assignment-5-api-calls-beckcarver
