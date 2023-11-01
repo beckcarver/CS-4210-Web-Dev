@@ -16,3 +16,6 @@
 [submodule "HW5"]
 	path = HW5
 	url = https://github.com/dradose1-uwyo-cosc/assignment-5-api-calls-beckcarver
+[submodule "HW6"]
+	path = HW6
+	url = https://github.com/dradose1-uwyo-cosc/assignment-6-react-components-beckcarver
