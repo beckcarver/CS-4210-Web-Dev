@@ -19,3 +19,6 @@
 [submodule "HW6"]
 	path = HW6
 	url = https://github.com/dradose1-uwyo-cosc/assignment-6-react-components-beckcarver
+[submodule "HW7"]
+	path = HW7
+	url = https://github.com/dradose1-uwyo-cosc/assignment-7-state-beckcarver
