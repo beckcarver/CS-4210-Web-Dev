@@ -22,3 +22,6 @@
 [submodule "HW7"]
 	path = HW7
 	url = https://github.com/dradose1-uwyo-cosc/assignment-7-state-beckcarver.git
+[submodule "HW9"]
+	path = HW9
+	url = https://github.com/dradose1-uwyo-cosc/assignment-9-server-side-rendering-beckcarver
