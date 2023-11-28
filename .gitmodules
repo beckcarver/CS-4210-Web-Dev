@@ -25,3 +25,6 @@
 [submodule "HW9"]
 	path = HW9
 	url = https://github.com/dradose1-uwyo-cosc/assignment-9-server-side-rendering-beckcarver
+[submodule "websurfer-final"]
+	path = websurfer-final
+	url = https://github.com/beckcarver/websurfer
