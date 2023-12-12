@@ -1,0 +1,30 @@
+[submodule "Lectures"]
+	path = Lectures
+	url = https://github.com/dradose1-uwyo-cosc/uwyo-cosc4210.git
+[submodule "HW1"]
+	path = HW1
+	url = https://github.com/dradose1-uwyo-cosc/assignment-1-html-beckcarver.git
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/dradose1-uwyo-cosc/assignment-2-css-javascript-beckcarver.git
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/dradose1-uwyo-cosc/assignment-3-json-and-node-beckcarver.git
+[submodule "HW4"]
+	path = HW4
+	url = https://github.com/dradose1-uwyo-cosc/assignment-4-html-forms-beckcarver.git
+[submodule "HW5"]
+	path = HW5
+	url = https://github.com/dradose1-uwyo-cosc/assignment-5-api-calls-beckcarver.git
+[submodule "HW6"]
+	path = HW6
+	url = https://github.com/dradose1-uwyo-cosc/assignment-6-react-components-beckcarver.git
+[submodule "HW7"]
+	path = HW7
+	url = https://github.com/dradose1-uwyo-cosc/assignment-7-state-beckcarver.git
+[submodule "HW9"]
+	path = HW9
+	url = https://github.com/dradose1-uwyo-cosc/assignment-9-server-side-rendering-beckcarver
+[submodule "websurfer-final"]
+	path = websurfer-final
+	url = https://github.com/beckcarver/websurfer
